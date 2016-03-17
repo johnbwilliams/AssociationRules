@@ -1,4 +1,4 @@
-AssociationRules README
+###AssociationRules README
 
 AssnRules.Rmd implements data mining association rules in imperative and functional programming styles.
 
